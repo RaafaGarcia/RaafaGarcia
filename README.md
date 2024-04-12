@@ -1,5 +1,5 @@
 
-[![Header](https://resources.harviiestudios.com.mx/banner_rafa.png "Header")](https://github.com/RaafaGarcia)
+[![Header](https://github.com/RaafaGarcia/RaafaGarcia/blob/main/banner_rafa.png?raw=true "Header")](https://github.com/RaafaGarcia)
 ### Hi there 👋
 
 <!--
