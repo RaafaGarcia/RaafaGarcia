@@ -1,6 +1,6 @@
 
-[![Header](https://github.com/RaafaGarcia/RaafaGarcia/blob/main/banner_rafa.png?raw=true "Header")](https://github.com/RaafaGarcia)
-### Hi there 👋
+[![Header](https://github.com/RaafaGarcia/RaafaGarcia/blob/main/header_profile.png?raw=true "Header")](https://github.com/RaafaGarcia)
+### ¡Hola Gente! 👋
 
 <!--
 **RaafaGarcia/RaafaGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
