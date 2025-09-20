@@ -1,10 +1,3 @@
-# 🚀 SmartAdmin - Full Stack Dashboard
-
-> **Sistema de administración moderno construido con FastAPI + React + TypeScript**
-
-![SmartAdmin Preview](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge) ![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-009688?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/React-18.2.0-61dafb?style=for-the-badge&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-5.2.2-3178c6?style=for-the-badge&logo=typescript)
-
----
 
 ## 👨‍💻 Sobre el Autor
 
@@ -20,6 +13,15 @@ Con más de 6 años de experiencia en desarrollo de software, especializado en l
 - ⚡ **DevOps** - Docker, CI/CD, Cloud deployment
 
 ---
+
+# 🚀 SmartAdmin - Full Stack Dashboard
+
+> **Sistema de administración moderno construido con FastAPI + React + TypeScript**
+
+![SmartAdmin Preview](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge) ![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-009688?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/React-18.2.0-61dafb?style=for-the-badge&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-5.2.2-3178c6?style=for-the-badge&logo=typescript)
+
+---
+
 
 ## 📋 Descripción del Proyecto
 
