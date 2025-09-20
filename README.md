@@ -39,12 +39,17 @@ Este proyecto showcase demuestra:
 
 ## 🌐 Demo en Vivo
 
+### ⏱️ **Tiempo de Inicio**
+> ⚠️ **Nota importante:** El backend está desplegado en Render.com (plan gratuito), por lo que puede tardar **aproximadamente 2 minutos** en "despertar" después de períodos de inactividad. Esto es normal en servicios gratuitos.
+
+---
+
 ### 🚀 **Aplicaciones Desplegadas**
 
 | Aplicación | URL | Estado |
 |------------|-----|---------|
-| 🌐 **Frontend** | [smartadmin-frontend.vercel.app](https://tu-usuario.github.io/smartadmin-frontend) | ✅ Online |
-| 📡 **API Backend** | [smartadmin-api.railway.app](https://smartadmin-api.onrender.com) | ✅ Online |
+| 🌐 **Frontend** | [smartadmin-frontend](https://raafagarcia.github.io/smartadmin-frontend/) | ✅ Online |
+| 📡 **API Backend** | [smartadmin-api.onrender.com](https://smartadmin-api.onrender.com/) | ✅ Online |
 | 📚 **Documentación API** | [/docs](https://smartadmin-api.onrender.com/docs) | ✅ Swagger UI |
 
 ### 🔐 **Credenciales de Demo**
@@ -53,10 +58,7 @@ Este proyecto showcase demuestra:
 🔑 Password: admin123
 ```
 
-### ⏱️ **Tiempo de Inicio**
-> ⚠️ **Nota importante:** El backend está desplegado en Render.com (plan gratuito), por lo que puede tardar **aproximadamente 2 minutos** en "despertar" después de períodos de inactividad. Esto es normal en servicios gratuitos.
 
----
 
 ## 🛠️ Stack Tecnológico
 
